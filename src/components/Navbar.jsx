@@ -12,7 +12,7 @@ export const Navbar = () => {
 
 const Container = styled.header`
     height: 7.5vh;
-    background-color: #011627;
+    background-color: #1a202c;
     color: white;
     display: flex;
     justify-content: center;
